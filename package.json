@@ -1,0 +1,20 @@
+{
+  "name": "chatterbox-bot",
+  "version": "0.0.0",
+  "description": "A robot that operates on the chatterbox network",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alan Shaw",
+  "license": "MIT",
+  "dependencies": {
+    "array-shuffle": "^1.0.1",
+    "chatterbox-core": "^0.1.2",
+    "ipfs": "^0.38.0",
+    "ipfs-swarm-bind-shim": "^0.1.0",
+    "multiaddr": "^7.1.0",
+    "scrab": "^1.1.0"
+  }
+}
