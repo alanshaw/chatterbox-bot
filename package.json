@@ -12,7 +12,7 @@
   "dependencies": {
     "array-shuffle": "^1.0.1",
     "chatterbox-core": "^0.1.2",
-    "ipfs": "^0.38.0",
+    "ipfs": "^0.65.0",
     "ipfs-swarm-bind-shim": "^0.1.0",
     "multiaddr": "^7.1.0",
     "scrab": "^1.1.0"
